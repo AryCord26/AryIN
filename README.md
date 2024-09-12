@@ -19,7 +19,7 @@ Refatorar o código para boas práticas de desenvolvimento.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Acessibilidade no Desenvolvimento Web
+# Acessibilidade no Desenvolvimento Web
 A acessibilidade é uma parte essencial do desenvolvimento web, pois garante que todos os usuários, independentemente de suas habilidades ou limitações, possam acessar e utilizar o site de maneira eficaz. No desenvolvimento entregue na Atividade 01 – Meu Primeiro Desenvolvimento WEB, algumas práticas e recursos de acessibilidade poderiam ser implementados para democratizar o acesso e melhorar a usabilidade do projeto para todos.
 
 Características de Acessibilidade Implementáveis
